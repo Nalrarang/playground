@@ -1,0 +1,39 @@
+{
+  "name": "playground",
+  "version": "1.0.0",
+  "description": "Nalrarang PlayGround",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nalrarang/playground.git"
+  },
+  "keywords": [
+    "Nalrarang"
+  ],
+  "author": "Nalrarang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nalrarang/playground/issues"
+  },
+  "homepage": "http://nalrarang.com",
+  "devDependencies": {
+    "axios": "^0.16.2",
+    "css-loader": "^0.28.4",
+    "datatables": "^1.10.13",
+    "file-loader": "^0.11.2",
+    "html-webpack-plugin": "^2.28.0",
+    "jquery": "^3.2.1",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "style-loader": "^0.18.2",
+    "uikit": "^3.0.0-beta.25",
+    "url-loader": "^0.5.8",
+    "vue": "^2.3.4",
+    "vue-loader": "^12.2.1",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
