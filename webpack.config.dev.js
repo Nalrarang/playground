@@ -51,7 +51,7 @@ module.exports = {
     }
   },
   devServer: {
-    contentBase: './dist',
+    contentBase: './src/',
     hot: true
   }
 }

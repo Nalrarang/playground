@@ -4,7 +4,9 @@
   "description": "Nalrarang PlayGround",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --config webpack.config.prod.js",
+    "dev": "webpack-dev-server --host 0.0.0.0 --port 9001 --config webpack.config.dev.js"    
   },
   "repository": {
     "type": "git",
